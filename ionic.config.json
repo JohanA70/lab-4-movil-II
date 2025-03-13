@@ -1,0 +1,7 @@
+{
+  "name": "oneSignal-P17",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
